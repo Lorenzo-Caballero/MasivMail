@@ -19,7 +19,7 @@
 <body>
     <nav class="navbar navbar-light" style="background-color: #55468c !important;">
         <a class="navbar-brand" href="#">
-            <strong style="color: #fff">WebDeveloper</strong>
+            <strong style="color: #fff">Aoki</strong>
         </a>
     </nav>
 
